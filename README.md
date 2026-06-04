@@ -1,2 +1,2 @@
-# UConn-REU-QST
+# UConnREU-QST
 UConn REU 2026
